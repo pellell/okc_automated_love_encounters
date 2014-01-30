@@ -3,7 +3,7 @@ okc_automated_love_encounters
 
 Selenium Okcupid Automated Love Encounters for that perfect algorithmic love. In python.
 
-0.) Make sure java  is installed (http://openjdk.java.net/install/) and in command line cd to the okc super lover folder and run the jar server Like this: "java -jar *.jar" 
+0.) Make sure java  is installed (http://openjdk.java.net/install/) and PYTHON in command line cd to the okc super lover folder and run the jar server Like this: "java -jar *.jar" 
 
 1.) Edit the "username_pword_SEX_m_or_f"\n
 
