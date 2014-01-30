@@ -1,0 +1,23 @@
+USERNAME
+PASSWORD
+f
+63
+
+#################
+# Choose a SEX : m or f
+# Place one of these below values above...like 63 for everybody
+####################################
+#value="34"       #  Girls who like guys
+#value="17"       #  Guys who like girls
+#value="40""      #  Girls who like girls
+#value="20""      #  Guys who like guys
+#value="54""      #  Guys and girls who like bi guys
+#value="57""      #  Guys and girls who like bi girls
+#value="2""       #  Straight girls only
+#value="1""       #  Straight guys only
+#value="8""       #  Gay girls only
+#value="4"        #  Gay guys only
+#value="32""      #  Bi girls only
+#value="16""      #  Bi guys only
+#value="63""      #  Everybody
+##########################
